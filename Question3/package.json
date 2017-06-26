@@ -1,0 +1,24 @@
+{
+  "name": "question2",
+  "version": "1.0.0",
+  "description": "Question2 lab 4",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "aakai",
+  "license": "ISC",
+  "dependencies":{
+	"express":"*",
+	"mongodb":"*",
+	"morgan":"*",
+	"body-parser":"*",
+	"multer":"*",
+	"ejs":"*",
+	"mongoose":"*",
+	"basic-auth":"*",
+	"express-session":"*",
+	"bcrypt":"*"
+  }
+}
